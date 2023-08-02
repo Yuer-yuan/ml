@@ -1,0 +1,4 @@
+- Pytorch implementation of [SRCNN](https://arxiv.org/abs/1501.00092)
+- Downloading link of datasets is at `datasets/README`
+- Checkpoint file provided was trained for about 500 epoches
+- Main referrence: [超分辨率网络SRCNN论文复现（Pytorch) by 末春雩风](https://zhuanlan.zhihu.com/p/431724297)

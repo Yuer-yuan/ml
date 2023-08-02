@@ -1,5 +1,5 @@
 __pycache__
 logs/csv/*
 logs/scalar/*
-!datasets/README
 datasets/*
+!datasets/README
